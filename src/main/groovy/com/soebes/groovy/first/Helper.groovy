@@ -1,6 +1,6 @@
 package com.soebes.groovy.first
 
-import Example
+import com.soebes.groovy.first.Example
 
 class Helper {
     def help(Example example) {

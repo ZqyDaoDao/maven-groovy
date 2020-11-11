@@ -3,3 +3,6 @@ target
 .project
 .settings
 file.log
+.idea/
+.iml
+first-groovy.iml
